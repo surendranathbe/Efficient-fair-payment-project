@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="EFPB Efficient Fair Payment Based on Blockchain for Outsourcing Services in Cloud Computing">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="EFPB_Efficient_Fair_Payment_Based_on_Blockchain_for_Outsourcing_Services_in_Cloud_Computing"/>
+        <property name="java-output-path" value="/EFPB Efficient Fair Payment Based on Blockchain for Outsourcing Services in Cloud Computing/build/classes"/>
+    </wb-module>
+</project-modules>
